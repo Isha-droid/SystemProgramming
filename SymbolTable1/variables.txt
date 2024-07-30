@@ -1,0 +1,4 @@
+int x
+float 5
+double 10
+char 3
